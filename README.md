@@ -1,6 +1,6 @@
 # tableau-citibike-challenge
 
-I aggregated the data found in the Citibike Trip History Logs for Jersey City, New Jersey in order to create and design informative and elegant interactive visualizatons and dashboards with the help of Tableau software. The dataset covers nearly 354,000 recorded *citibike* rides originating in JerseyCity over the course of the entire 2018 year. 
+I aggregated the data found in the Citibike Trip History Logs for Jersey City, New Jersey in order to create and design informative and elegant interactive visualizatons and dashboards with the help of Tableau software. The dataset covers nearly 354,000 recorded *citibike* rides originating in JerseyCity over the course of 2018. 
 
 Please access the visualizations, dashboards and my *JerseyCiti Story* here:
 **https://public.tableau.com/profile/atomazos#!/**
